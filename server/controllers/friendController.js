@@ -1,3 +1,6 @@
+//friendController
+
+
 const Friend = require('../models/friend.model');
 //const User = require('../models/userModel'); // Assuming you have a User model for user profiles
 
